@@ -13,6 +13,8 @@ var fs = require("fs");
 
 //Main
 //======================
+
+// main user input
 var input = process.argv[3];
 var command = process.argv[2];
 

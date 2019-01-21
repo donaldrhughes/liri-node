@@ -2558,3 +2558,81 @@ Website: http://www.magpictures.com/mrnobody/
 
 Your input was: Mr. Nobody
 ----------------------
+Movie: Mr. Nobody
+
+Year: 2009
+
+Genre(s): Drama, Fantasy, Romance, Sci-Fi
+
+Rating: R
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Summary: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+imdb Rating: 7.9
+
+Rotten Tomatoes Rating: 67%
+
+Metacritic: 63/100
+
+Language: English, Mohawk
+
+Network: Magnolia Pictures
+
+Website: http://www.magpictures.com/mrnobody/
+
+Your input was: Mr. Nobody
+----------------------
+Movie: Alice in Wonderland
+
+Year: 2010
+
+Genre(s): Adventure, Family, Fantasy
+
+Rating: PG
+
+Actors: Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway
+
+Summary: Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.
+
+imdb Rating: 6.5
+
+Rotten Tomatoes Rating: 51%
+
+Metacritic: 53/100
+
+Language: English
+
+Network: Walt Disney Pictures
+
+Website: http://disney.go.com/disneypictures/aliceinwonderland/
+
+Your input was: alice in wonderland
+----------------------
+Movie: Alice in Wonderland
+
+Year: 2010
+
+Genre(s): Adventure, Family, Fantasy
+
+Rating: PG
+
+Actors: Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway
+
+Summary: Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.
+
+imdb Rating: 6.5
+
+Rotten Tomatoes Rating: 51%
+
+Metacritic: 53/100
+
+Language: English
+
+Network: Walt Disney Pictures
+
+Website: http://disney.go.com/disneypictures/aliceinwonderland/
+
+Your input was: alice in wonderland
+----------------------

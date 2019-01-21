@@ -1,7 +1,5 @@
 var axios = require("axios");
 var fs = require("fs");
-// var liri = require("./liri");
-
 
 var movie = function (input) {
   
