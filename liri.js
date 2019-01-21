@@ -15,33 +15,46 @@ var fs = require("fs");
 var spotify = new Spotify(keys.spotify);
 var input = process.argv[3];
 var command = process.argv[2];
-
+var dataObj = {
+    command: command
+}
 
 //add node args in input var
 for (i = 4; i < process.argv.length; i++) {
     input += " " + process.argv[i];
 }
 
+
 //use random.txt to call LIRI's commands.
 //run spotify-this-song for "I Want it That Way," 
 //as follows the text in random.txt.
 //Edit text in random.txt to test out feature 
 //movie-this and my-tweets
-
-fs.appendFile('random.txt', command, function (err) {
-    if (err) throw err;
-
-})
-
-//reads random.txt for command
-var data = fs.readFile("random.txt", "utf8", (err, data) => {
-    if (err) throw err;
-    console.log(data);
-    //removes the contents of random.txt
-    fs.truncate('random.txt', 0, function () {});
-});
+appendCommand(dataObj);
 
 
+//!var is still inside data var
+function appendCommand(dataObj) {
+    //reads random.txt for command
+    fs.appendFile('random.txt', command, function (err) {
+        if (err) throw err;
+        fs.readFile("random.txt", "utf8", (err, data) => {
+            if (err) throw err;
+            dataObj.command = data;
+            //removes the contents of random.txt
+            fs.truncate('random.txt', 0, function () { });
+            console.log(data);
+            
+            
+        });
+    })
+}
+console.log(dataObj.command);
+
+
+
+
+// console.log(data);
 //Command Definitions
 //
 
@@ -69,7 +82,7 @@ else if (process.argv[2] === "spotifyAlbum" && process.argv[3] == undefined) {
     spotifyAlbum(spType, input);
 }
 
-else if (process.argv[2] === "omdbMovie" && process.argv[3] !== undefined) {
+else if (dataObj.command === "omdbMovie" && process.argv[3] !== undefined) {
 
     movie(input);
 }
