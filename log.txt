@@ -1896,3 +1896,665 @@ Website: N/A
 
 Your input was: what about bob
 ----------------------
+Movie: What About Bob?
+
+Year: 1991
+
+Genre(s): Comedy
+
+Rating: PG
+
+Actors: Bill Murray, Richard Dreyfuss, Julie Hagerty, Charlie Korsmo
+
+Summary: A successful psychotherapist loses his mind after one of his most dependent patients, an obsessive-compulsive neurotic, tracks him down during his family vacation.
+
+imdb Rating: 7.0
+
+Rotten Tomatoes Rating: 83%
+
+Metacritic: 60/100
+
+Language: English
+
+Network: Touchstone Home Entertainment
+
+Website: N/A
+
+Your input was: what about bob
+----------------------
+Movie: What About Bob?
+
+Year: 1991
+
+Genre(s): Comedy
+
+Rating: PG
+
+Actors: Bill Murray, Richard Dreyfuss, Julie Hagerty, Charlie Korsmo
+
+Summary: A successful psychotherapist loses his mind after one of his most dependent patients, an obsessive-compulsive neurotic, tracks him down during his family vacation.
+
+imdb Rating: 7.0
+
+Rotten Tomatoes Rating: 83%
+
+Metacritic: 60/100
+
+Language: English
+
+Network: Touchstone Home Entertainment
+
+Website: N/A
+
+Your input was: what about bob
+----------------------
+Movie: What About Bob?
+
+Year: 1991
+
+Genre(s): Comedy
+
+Rating: PG
+
+Actors: Bill Murray, Richard Dreyfuss, Julie Hagerty, Charlie Korsmo
+
+Summary: A successful psychotherapist loses his mind after one of his most dependent patients, an obsessive-compulsive neurotic, tracks him down during his family vacation.
+
+imdb Rating: 7.0
+
+Rotten Tomatoes Rating: 83%
+
+Metacritic: 60/100
+
+Language: English
+
+Network: Touchstone Home Entertainment
+
+Website: N/A
+
+Your input was: what about bob
+----------------------
+Movie: What About Bob?
+
+Year: 1991
+
+Genre(s): Comedy
+
+Rating: PG
+
+Actors: Bill Murray, Richard Dreyfuss, Julie Hagerty, Charlie Korsmo
+
+Summary: A successful psychotherapist loses his mind after one of his most dependent patients, an obsessive-compulsive neurotic, tracks him down during his family vacation.
+
+imdb Rating: 7.0
+
+Rotten Tomatoes Rating: 83%
+
+Metacritic: 60/100
+
+Language: English
+
+Network: Touchstone Home Entertainment
+
+Website: N/A
+
+Your input was: what about bob
+----------------------
+Movie: Mr. Nobody
+
+Year: 2009
+
+Genre(s): Drama, Fantasy, Romance, Sci-Fi
+
+Rating: R
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Summary: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+imdb Rating: 7.9
+
+Rotten Tomatoes Rating: 67%
+
+Metacritic: 63/100
+
+Language: English, Mohawk
+
+Network: Magnolia Pictures
+
+Website: http://www.magpictures.com/mrnobody/
+
+Your input was: Mr. Nobody
+----------------------
+Movie: Spaceballs
+
+Year: 1987
+
+Genre(s): Adventure, Comedy, Sci-Fi
+
+Rating: PG
+
+Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
+
+Summary: A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
+
+imdb Rating: 7.1
+
+Rotten Tomatoes Rating: 58%
+
+Metacritic: 46/100
+
+Language: English
+
+Network: MGM
+
+Website: N/A
+
+Your input was: spaceballs
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: benny and joon
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: benny and joon
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: benny and joon
+----------------------
+Movie: Mr. Nobody
+
+Year: 2009
+
+Genre(s): Drama, Fantasy, Romance, Sci-Fi
+
+Rating: R
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Summary: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+imdb Rating: 7.9
+
+Language: English, Mohawk
+
+Network: Magnolia Pictures
+
+Website: http://www.magpictures.com/mrnobody/
+
+Your input was: Mr. Nobody
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: [object Object]
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: [object Object]
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: [object Object]
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: [object Object]
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: [object Object]
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: [object Object]
+----------------------
+Movie: Spaceballs
+
+Year: 1987
+
+Genre(s): Adventure, Comedy, Sci-Fi
+
+Rating: PG
+
+Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
+
+Summary: A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
+
+imdb Rating: 7.1
+
+Rotten Tomatoes Rating: 58%
+
+Metacritic: 46/100
+
+Language: English
+
+Network: MGM
+
+Website: N/A
+
+Your input was: spaceballs
+----------------------
+Movie: Mr. Nobody
+
+Year: 2009
+
+Genre(s): Drama, Fantasy, Romance, Sci-Fi
+
+Rating: R
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Summary: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+imdb Rating: 7.9
+
+Rotten Tomatoes Rating: 67%
+
+Metacritic: 63/100
+
+Language: English, Mohawk
+
+Network: Magnolia Pictures
+
+Website: http://www.magpictures.com/mrnobody/
+
+Your input was: Mr. Nobody
+----------------------
+Movie: Toy Story
+
+Year: 1995
+
+Genre(s): Animation, Adventure, Comedy, Family, Fantasy
+
+Rating: G
+
+Actors: Tom Hanks, Tim Allen, Don Rickles, Jim Varney
+
+Summary: A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+
+imdb Rating: 8.3
+
+Rotten Tomatoes Rating: 100%
+
+Metacritic: 95/100
+
+Language: English
+
+Network: Buena Vista
+
+Website: http://www.disney.com/ToyStory
+
+Your input was: toy story
+----------------------
+Movie: The Incredible Hulk
+
+Year: 2008
+
+Genre(s): Action, Adventure, Sci-Fi
+
+Rating: PG-13
+
+Actors: Edward Norton, Liv Tyler, Tim Roth, William Hurt
+
+Summary: Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into, whenever he loses his temper.
+
+imdb Rating: 6.8
+
+Rotten Tomatoes Rating: 67%
+
+Metacritic: 61/100
+
+Language: English, Portuguese, Spanish
+
+Network: Universal Pictures
+
+Website: http://www.incrediblehulk.com/
+
+Your input was: the incredible hulk
+----------------------
+Movie: Spaceballs
+
+Year: 1987
+
+Genre(s): Adventure, Comedy, Sci-Fi
+
+Rating: PG
+
+Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
+
+Summary: A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
+
+imdb Rating: 7.1
+
+Rotten Tomatoes Rating: 58%
+
+Metacritic: 46/100
+
+Language: English
+
+Network: MGM
+
+Website: N/A
+
+Your input was: spaceballs
+----------------------
+Movie: Mr. Nobody
+
+Year: 2009
+
+Genre(s): Drama, Fantasy, Romance, Sci-Fi
+
+Rating: R
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Summary: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+imdb Rating: 7.9
+
+Rotten Tomatoes Rating: 67%
+
+Metacritic: 63/100
+
+Language: English, Mohawk
+
+Network: Magnolia Pictures
+
+Website: http://www.magpictures.com/mrnobody/
+
+Your input was: Mr. Nobody
+----------------------
+Movie: Toy Story
+
+Year: 1995
+
+Genre(s): Animation, Adventure, Comedy, Family, Fantasy
+
+Rating: G
+
+Actors: Tom Hanks, Tim Allen, Don Rickles, Jim Varney
+
+Summary: A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+
+imdb Rating: 8.3
+
+Rotten Tomatoes Rating: 100%
+
+Metacritic: 95/100
+
+Language: English
+
+Network: Buena Vista
+
+Website: http://www.disney.com/ToyStory
+
+Your input was: toy story
+----------------------
+Movie: Home Alone
+
+Year: 1990
+
+Genre(s): Comedy, Family
+
+Rating: PG
+
+Actors: Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard
+
+Summary: An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.
+
+imdb Rating: 7.5
+
+Rotten Tomatoes Rating: 64%
+
+Metacritic: 63/100
+
+Language: English
+
+Network: Twentieth Century Fox
+
+Website: http://www.foxhome.com/homealone/index_frames.html
+
+Your input was: home alone
+----------------------
+Movie: Alice in Wonderland
+
+Year: 2010
+
+Genre(s): Adventure, Family, Fantasy
+
+Rating: PG
+
+Actors: Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway
+
+Summary: Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.
+
+imdb Rating: 6.5
+
+Rotten Tomatoes Rating: 51%
+
+Metacritic: 53/100
+
+Language: English
+
+Network: Walt Disney Pictures
+
+Website: http://disney.go.com/disneypictures/aliceinwonderland/
+
+Your input was: alice in wonderland
+----------------------
+Movie: Alice in Wonderland
+
+Year: 2010
+
+Genre(s): Adventure, Family, Fantasy
+
+Rating: PG
+
+Actors: Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway
+
+Summary: Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.
+
+imdb Rating: 6.5
+
+Rotten Tomatoes Rating: 51%
+
+Metacritic: 53/100
+
+Language: English
+
+Network: Walt Disney Pictures
+
+Website: http://disney.go.com/disneypictures/aliceinwonderland/
+
+Your input was: alice in wonderland
+----------------------
+Movie: Mr. Nobody
+
+Year: 2009
+
+Genre(s): Drama, Fantasy, Romance, Sci-Fi
+
+Rating: R
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Summary: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+imdb Rating: 7.9
+
+Rotten Tomatoes Rating: 67%
+
+Metacritic: 63/100
+
+Language: English, Mohawk
+
+Network: Magnolia Pictures
+
+Website: http://www.magpictures.com/mrnobody/
+
+Your input was: Mr. Nobody
+----------------------
