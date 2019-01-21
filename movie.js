@@ -1,5 +1,6 @@
 var axios = require("axios");
 var fs = require("fs");
+// var liri = require("./liri");
 
 
 var movie = function (input) {
@@ -27,6 +28,7 @@ var movie = function (input) {
                 "Language: " + movieData.Language,
                 "Network: " + movieData.Production,
                 "Website: " + movieData.Website,
+                "Your input was: " + input
                 
             ].join("\n\n");
             
