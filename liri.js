@@ -1,4 +1,8 @@
 //Liri v.02
+//usage: 
+//(example) node liri.js spotifySong <song> -- Displays Song (Spotify)
+//(example) node liri.js spotifyAlbum <album> -- Displays Album (Spotify)
+//(example) node liri.js omdbMovie <movie> -- Displays Movie (OMDB)
 
 
 //Main Require
