@@ -2636,3 +2636,377 @@ Website: http://disney.go.com/disneypictures/aliceinwonderland/
 
 Your input was: alice in wonderland
 ----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: dude wheres my car
+----------------------
+Movie: Spaceballs
+
+Year: 1987
+
+Genre(s): Adventure, Comedy, Sci-Fi
+
+Rating: PG
+
+Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
+
+Summary: A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
+
+imdb Rating: 7.1
+
+Language: English
+
+Network: MGM
+
+Website: N/A
+
+Your input was: spaceballs
+----------------------
+Movie: ¡Three Amigos!
+
+Year: 1986
+
+Genre(s): Comedy, Western
+
+Rating: PG
+
+Actors: Steve Martin, Chevy Chase, Martin Short, Alfonso Arau
+
+Summary: Three actors accept an invitation to a Mexican village to perform their onscreen bandit fighter roles, unaware that it is the real thing.
+
+imdb Rating: 6.5
+
+Language: English, Spanish, German
+
+Network: HBO Video
+
+Website: N/A
+
+Your input was: three amigos
+----------------------
+Movie: Jurassic Park
+
+Year: 1993
+
+Genre(s): Adventure, Sci-Fi, Thriller
+
+Rating: PG-13
+
+Actors: Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
+
+Summary: During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
+
+imdb Rating: 8.1
+
+Language: English, Spanish
+
+Network: Universal City Studios
+
+Website: http://www.jurassicpark.com/maingate_flash.html
+
+Your input was: jurassic park
+----------------------
+Movie: Toy Story 2
+
+Year: 1999
+
+Genre(s): Animation, Adventure, Comedy, Family, Fantasy
+
+Rating: G
+
+Actors: Tom Hanks, Tim Allen, Joan Cusack, Kelsey Grammer
+
+Summary: When Woody is stolen by a toy collector, Buzz and his friends vow to rescue him, but Woody finds the idea of immortality in a museum tempting.
+
+imdb Rating: 7.9
+
+Language: English, Arabic, Spanish
+
+Network: Buena Vista Pictures
+
+Website: http://disney.go.com/toystory/
+
+Your input was: toy story 2
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: dude wheres my
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: dude wheres my car
+----------------------
+Movie: Dallas Buyers Club
+
+Year: 2013
+
+Genre(s): Biography, Drama
+
+Rating: R
+
+Actors: Matthew McConaughey, Jennifer Garner, Jared Leto, Denis O'Hare
+
+Summary: In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.
+
+imdb Rating: 8.0
+
+Language: English, Japanese
+
+Network: Focus Features
+
+Website: http://www.focusfeatures.com/dallas_buyers_club
+
+Your input was: dallas buyers club
+----------------------
+Movie: Dallas Buyers Club
+
+Year: 2013
+
+Genre(s): Biography, Drama
+
+Rating: R
+
+Actors: Matthew McConaughey, Jennifer Garner, Jared Leto, Denis O'Hare
+
+Summary: In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.
+
+imdb Rating: 8.0
+
+Language: English, Japanese
+
+Network: Focus Features
+
+Website: http://www.focusfeatures.com/dallas_buyers_club
+
+Your input was: Dallas Buyers Club
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: the godfather III
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: the godfather 3
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: the godfather 2
+----------------------
+Movie: undefined
+
+Year: undefined
+
+Genre(s): undefined
+
+Rating: undefined
+
+Actors: undefined
+
+Summary: undefined
+
+imdb Rating: undefined
+
+Language: undefined
+
+Network: undefined
+
+Website: undefined
+
+Your input was: godfather 2
+----------------------
+Movie: Spaceballs
+
+Year: 1987
+
+Genre(s): Adventure, Comedy, Sci-Fi
+
+Rating: PG
+
+Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
+
+Summary: A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
+
+imdb Rating: 7.1
+
+Language: English
+
+Network: MGM
+
+Website: N/A
+
+Your input was: spaceballs
+----------------------
+Movie: Raiders of the Lost Ark
+
+Year: 1981
+
+Genre(s): Action, Adventure
+
+Rating: PG
+
+Actors: Harrison Ford, Karen Allen, Paul Freeman, Ronald Lacey
+
+Summary: In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.
+
+imdb Rating: 8.5
+
+Language: English, German, Hebrew, Spanish, Arabic, Nepali
+
+Network: Paramount Pictures
+
+Website: http://www.indianajones.com/raiders/
+
+Your input was: raiders of the lost ark
+----------------------
+Movie: Dallas Buyers Club
+
+Year: 2013
+
+Genre(s): Biography, Drama
+
+Rating: R
+
+Actors: Matthew McConaughey, Jennifer Garner, Jared Leto, Denis O'Hare
+
+Summary: In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.
+
+imdb Rating: 8.0
+
+Language: English, Japanese
+
+Network: Focus Features
+
+Website: http://www.focusfeatures.com/dallas_buyers_club
+
+Your input was: Dallas Buyers Club
+----------------------
+Movie: Dallas Buyers Club
+
+Year: 2013
+
+Genre(s): Biography, Drama
+
+Rating: R
+
+Actors: Matthew McConaughey, Jennifer Garner, Jared Leto, Denis O'Hare
+
+Summary: In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.
+
+imdb Rating: 8.0
+
+Language: English, Japanese
+
+Network: Focus Features
+
+Website: http://www.focusfeatures.com/dallas_buyers_club
+
+Your input was: Dallas Buyers Club
+----------------------

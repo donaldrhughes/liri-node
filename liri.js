@@ -1,4 +1,4 @@
-//Liri v.02
+//Liri v.0211
 //usage: 
 //(example) node liri.js spotifySong <song> -- Displays Song (Spotify)
 //(example) node liri.js spotifyAlbum <album> -- Displays Album (Spotify)
@@ -82,7 +82,7 @@ function mainLiri() {
         movie(input);
     }
     else if (dataObj.command === "omdbMovie" && process.argv[3] == undefined) {
-        input = "Mr. Nobody"
+        input = "Dallas Buyers Club"
         movie(input);
     }
 
